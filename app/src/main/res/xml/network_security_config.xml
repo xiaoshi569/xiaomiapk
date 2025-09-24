@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">110.41.43.81</domain>
+        <domain includeSubdomains="true">pushplus.plus</domain>
+        <domain includeSubdomains="true">www.pushplus.plus</domain>
+        <domain includeSubdomains="true">m.jr.airstarfinance.net</domain>
+        <domain includeSubdomains="true">jr.airstarfinance.net</domain>
+    </domain-config>
+</network-security-config>
